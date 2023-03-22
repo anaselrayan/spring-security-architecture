@@ -1,5 +1,5 @@
 # spring-security-architecture
-Custom implementation for Spring Security Authorization Server that have two authentication providers 
+Custom implementation for Spring Security Authorization Server
 
 ![Spring Security Architecture](https://backendstory.com/content/images/size/w1000/2022/02/7.-Scenario-5.1---Multiple-Custom-AuthenticationProvider-1.png)
 
