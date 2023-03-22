@@ -26,5 +26,5 @@ Custom implementation for Spring Security Authorization Server that have two aut
 
 ## Security Filters:
 
-* Jwt Authorization Filter: filters incomming requests that have Authorization header whith keyword 'Bearer ' 
+* Jwt Authorization Filter: filters incomming requests that have Authorization header with keyword 'Bearer ' 
 * Basic Authorization Filter: filters incomming requests that have Authorization header with keyword 'Basic '
